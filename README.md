@@ -1,4 +1,4 @@
 # Practica_ARQ
 Práctica para el módulo de arquitectura del Bootcamp
 
-Enlace a la práctica: https://docs.google.com/drawings/d/1QSx5crOvWCEHfi11Fdwa0-FiY2PY7XbaN5-gtvcEhmM/edit?usp=sharing
+Enlace a la práctica: https://docs.google.com/document/d/19_NJWXRV-cO1kIcOxfra5w4B2qZl7N-dgqF4uttWkZw/edit?usp=sharing
